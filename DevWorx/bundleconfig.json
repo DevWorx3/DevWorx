@@ -1,0 +1,8 @@
+[
+  {
+    "outputFileName": "Content/js/js-composer.min.js",
+    "inputFiles": [
+      "Content/js/js-composer.js"
+    ]
+  }
+]
